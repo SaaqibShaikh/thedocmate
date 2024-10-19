@@ -2,8 +2,15 @@
 git init
 git remote add origin https://github.com/SaaqibShaikh/lightning-ai-project.git
 git add .
+"for this only"
+git config user.email "realsaaqibshaikh@gmail.com"
+git config user.name "SaaqibShaikh"
+git commit -m "Initial commit with Lightning AI project" 
 
-
+first time- 
+git push --set-upstream origin master
+consecutively 
+git push
 
 
 
