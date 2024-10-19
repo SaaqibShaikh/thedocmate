@@ -1,0 +1,14 @@
+// git commands 
+git init
+git remote add origin https://github.com/SaaqibShaikh/lightning-ai-project.git
+git add .
+
+
+
+
+
+
+
+// tiger graph commands 
+docker pull tigergraph/tigergraph:latest
+docker run -d -p 14240:14240 -p 9000:9000 tigergraph/tigergraph:latest
